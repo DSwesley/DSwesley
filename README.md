@@ -45,11 +45,9 @@
 
 ## Meu sistema operacional
 
-[![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-)]()
-[![linuxmint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white
-)]()
+<div style="display: inline_block"><br/>
 
-[![amd](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white
-)]()
-
+<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+<img align="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> 
+<img align="center" alt="AMD" src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> 
+</div>
