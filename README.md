@@ -11,7 +11,7 @@
 
 
 
-![wesley ghub](https://github-readme-stats.vercel.app/api/top-langs/?username=dswesley&theme=blue-green)![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=dswesley&show_icons=true&theme=dracula)
+![wesley ghub](https://github-readme-stats.vercel.app/api/top-langs/?username=dswesley&theme=blue-green) ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=dswesley&show_icons=true&theme=dracula)
 
 
 
