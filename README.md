@@ -1,7 +1,8 @@
 ## Ola, eu sou o Wesley 👋
 
-- 💻 Atualmente sou estudante de Ciencia de Dados...
--  ☕ Amo café ...
+- 💻 Ciencias de dados 2/4
+- 💻 Estudante de Front-end
+-  ☕ Coffeelover
 - 🎵 Amo musica, toco Violoncelo e Contrabaixo acustico ...
 
 
